@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
+## Pre requisites
+Install the Angular CLI globally.
+
+To install the CLI using npm, open a terminal/console window and enter the following command:
+Run `npm install -g @angular/cli`
+Run `ng new CAR-UI`
+
+## Development server
+Run `cd CAR-UI`
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
