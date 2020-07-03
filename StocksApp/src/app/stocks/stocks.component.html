@@ -1,0 +1,49 @@
+<!-- <div class="container-fluid bg-light py-5">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card card-body">
+                <h3 class="text-center mb-4">Stocks Information</h3>
+                <div class="table-responsive">
+                    <table class="table">
+                        <th>Id </th>
+                        <th>Name</th>
+                        <th>Current Price</th>
+                        <th>Last Update</th>
+            
+                        <tr *ngFor="let stock of stocks">
+                            <td>{{stock.stockId}}</td>
+                            <td>{{stock.name}}</td>
+                            <td>{{stock.currentPrice}}</td>
+                            <td>{{stock.lastUpdate}}</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div> -->
+
+
+
+<div class="col-md-6">
+    <h2> Stock Details</h2>
+    <table id="customers">
+      <thead>
+      <tr>
+        <th>Stock Id </th>
+        <th>Name</th>
+        <th>Current Price</th>
+        <th>Last Update</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let stock of stocks">
+            <td>{{stock.stockId}}</td>
+            <td>{{stock.name}}</td>
+            <td>{{stock.currentPrice}}</td>
+            <td>{{stock.lastUpdate}}</td>
+        </tr>
+    </tbody>
+    </table>
+</div>

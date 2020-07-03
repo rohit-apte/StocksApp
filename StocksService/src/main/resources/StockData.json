@@ -1,0 +1,68 @@
+[
+  {
+    "stockId": 1,
+    "name": "Stock A",
+    "currentPrice": 500.50,
+    "lastUpdate": "2020-01-20"
+  },
+  {
+    "stockId": 2,
+    "name": "Stock B",
+    "currentPrice": 600.50,
+    "lastUpdate": "2019-01-20"
+  },
+  {
+    "stockId": 3,
+    "name": "Stock C",
+    "currentPrice": 1600.50,
+    "lastUpdate": "2020-03-10"
+  },
+  {
+    "stockId": 4,
+    "name": "Stock D",
+    "currentPrice": 10.00,
+    "lastUpdate": "2020-02-11"
+  },
+  {
+    "stockId": 5,
+    "name": "Stock E",
+    "currentPrice": 60.50,
+    "lastUpdate": "2019-12-25"
+  },
+  {
+    "stockId": 6,
+    "name": "Stock F",
+    "currentPrice": 780,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "stockId": 7,
+    "name": "Stock G",
+    "currentPrice": 6005.0,
+    "lastUpdate": "2020-01-17"
+  },
+  {
+    "stockId": 8,
+    "name": "Stock H",
+    "currentPrice": 6020.50,
+    "lastUpdate": "2020-03-23"
+  },
+  {
+    "stockId": 9,
+    "name": "Stock I",
+    "currentPrice": 5600.00,
+    "lastUpdate": "2020-01-06"
+  },
+  {
+    "stockId": 10,
+    "name": "Stock J",
+    "currentPrice": 90.50,
+    "lastUpdate": "2020-01-07"
+  },
+  {
+    "stockId": 11,
+    "name": "Stock K",
+    "currentPrice": 605,
+    "lastUpdate": "2018-01-28"
+  }
+]
