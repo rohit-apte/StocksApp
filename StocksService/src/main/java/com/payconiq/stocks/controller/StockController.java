@@ -23,7 +23,7 @@ public class StockController {
 
 
     @PostMapping
-    public Stock addOrder(@RequestBody Stock stock) {
+    public Stock addStock(@RequestBody Stock stock) {
         return stockService.addStock(stock);
     }
 
